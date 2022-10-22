@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JSONLiveLink.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Desktop\Z_TRACKER_V4\Plugins\PluginPackaged2\HostProject\Plugins\Z_TRACKERLiveLink\Intermediate\Build\Win64\UnrealEditor\Development\JSONLiveLink\Module.JSONLiveLink.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"G:\Desktop\Z_TRACKER_V4\Plugins\PluginPackaged2\HostProject\Plugins\Z_TRACKERLiveLink\Intermediate\Build\Win64\UnrealEditor\Development\JSONLiveLink\UnrealEditor-JSONLiveLink.lib"

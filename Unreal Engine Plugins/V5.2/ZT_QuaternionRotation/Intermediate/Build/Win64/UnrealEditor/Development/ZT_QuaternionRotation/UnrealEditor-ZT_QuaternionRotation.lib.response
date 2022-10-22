@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ZT_QuaternionRotation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Desktop\Z_TRACKER_V4\Plugins\PluginPackaged\HostProject\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UnrealEditor\Development\ZT_QuaternionRotation\Module.ZT_QuaternionRotation.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"G:\Desktop\Z_TRACKER_V4\Plugins\PluginPackaged\HostProject\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UnrealEditor\Development\ZT_QuaternionRotation\UnrealEditor-ZT_QuaternionRotation.lib"

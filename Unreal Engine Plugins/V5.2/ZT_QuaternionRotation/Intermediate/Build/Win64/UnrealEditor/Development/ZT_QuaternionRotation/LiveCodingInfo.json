@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ZT_QuaternionRotation.cpp.obj": [
+			"ZT_QuaternionRotation.init.gen.cpp.obj",
+			"ZT_QuaternionRotationBPLibrary.gen.cpp.obj",
+			"ZT_QuaternionRotation.cpp.obj",
+			"ZT_QuaternionRotationBPLibrary.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\intermediate\\build\\win64\\unrealeditor\\development\\zt_quaternionrotation\\module.zt_quaternionrotation.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unrealengine-5-main\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\intermediate\\build\\win64\\unrealeditor\\development\\zt_quaternionrotation\\definitions.zt_quaternionrotation.h",
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\intermediate\\build\\win64\\unrealeditor\\inc\\zt_quaternionrotation\\uht\\zt_quaternionrotation.init.gen.cpp",
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\intermediate\\build\\win64\\unrealeditor\\inc\\zt_quaternionrotation\\uht\\zt_quaternionrotationbplibrary.gen.cpp",
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\source\\zt_quaternionrotation\\public\\zt_quaternionrotationbplibrary.h",
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\intermediate\\build\\win64\\unrealeditor\\inc\\zt_quaternionrotation\\uht\\zt_quaternionrotationbplibrary.generated.h",
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\source\\zt_quaternionrotation\\private\\zt_quaternionrotation.cpp",
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\source\\zt_quaternionrotation\\public\\zt_quaternionrotation.h",
+            "g:\\desktop\\z_tracker_v4\\plugins\\pluginpackaged\\hostproject\\plugins\\zt_quaternionrotation\\source\\zt_quaternionrotation\\private\\zt_quaternionrotationbplibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
